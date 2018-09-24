@@ -22,10 +22,9 @@ A idéia do teste é descobrir como a candidata/candidato lida com um projeto ze
 
 7 – Ao clicar em um cadastro, na lista de cadastros você deverá ver os detalhes deste cadastro, seja em nova página ou na mesma página através de modal ou outro elemento gráfico.
 	 
-
 Poderá ser utilizado bibliotecas de terceiro, qualquer modelo ou paradigma de estruturação de código desde que respeite o style coding do laravel.
 
-Caso não tenha concluído o teste indique no README.md o que faltou e qual foi o maior desafio no iten(s) faltantes.
+Caso não tenha concluído o teste indique no README.md o que faltou e qual foi o maior desafio no iten(s) faltantes. Colocar no README.md também as observações de como foi realizado, porque foi realizado de determinada maneira e porque usou alguma biblioteca de terceiros (o que é totalmente recomendável se necessário).
 
 Caso julgue alterar os requisitos do CRUD o faça, seja para inserção de capa do filme ou qualquer outro campo, toda melhoria será considerada bem-vinda na implementação.
 
